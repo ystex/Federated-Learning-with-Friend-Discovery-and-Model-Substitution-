@@ -12,8 +12,12 @@ FL-Dropout: The server simply ignores the dropout clients performs global aggreg
 
 FL-Stale: The method to deal with dropout clients is to use their uploaded local model updates for the current round’s global aggregation.  
 
+## Requirments
+Python3.6
 
+Pytorch 1.11.0
 
+Torchvision 0.12.0
 ## Reference
 If you find the code useful, please cite the following papers:
 Friends to Help: Saving Federated Learning from Client Dropout. 
