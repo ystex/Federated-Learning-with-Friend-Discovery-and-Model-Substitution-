@@ -26,7 +26,7 @@ Torchvision 0.12.0
 The program supports generating FL dataset from Pytorch native datasets, we currently test MNIST, FashionMNIST and Cifar10 datasets.
 
 ## Results
-![image](https://github.com/ystex/Federated-Learning-with-Friend-Discovery-and-Model-Substitution-/blob/main/cifar_result.png)
+![Alt text](https://github.com/ystex/Federated-Learning-with-Friend-Discovery-and-Model-Substitution-/blob/main/cifar_result.png)
 
 
 ## Reference
