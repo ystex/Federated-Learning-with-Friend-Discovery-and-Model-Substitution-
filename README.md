@@ -35,9 +35,9 @@ Clustered Setting - CIFAR-10: The CIFAR-10 dataset has 50000 training data sampl
 General Setting - CIFAR-10: The CIFAR-10 dataset has 50000 training data samples. After shuffling the samples in label order, all samples are divided into 250 partitions with each partition having 200 samples. There are 20 clients. Each client then randomly picks 2 partitions. This method is a common way of generating non-i.i.d. FL dataset.
 
 
-MNIST Model: The CNN model has two 5 × 5 convolution layers, a fully connected layer with 320 units and ReLU activation, and a final output layer with softmax. The first convolution layer has 10 channels while the second one has 20 channels. Both layers are followed by 2 × 2 max pooling. The following parameters are used for training: the local batch size B = 5, the number of local epochs E=2, the local learning rate \eta_L = 0.1 and the global learning rate \eta = 0.1.
+MNIST Model: The CNN model has two 5 × 5 convolution layers, a fully connected layer with 320 units and ReLU activation, and a final output layer with softmax. The first convolution layer has 10 channels while the second one has 20 channels. Both layers are followed by 2 × 2 max pooling. The following parameters are used for training: the local batch size BS = 5, the number of local epochs E=2, the local learning rate \eta_L = 0.1 and the global learning rate \eta = 0.1.
 
-CIFAR-10 Model: The CNN model has two  5 × 5 convolution layers, three fully connected layers and ReLU activation, and a final output layer with softmax. The following parameters are used for training: the local batch size $BS = 20$, the number of local epochs $E=2$, the local learning rate \eta_L = 0.1 and the global learning rate \eta = 0.1.
+CIFAR-10 Model: The CNN model has two  5 × 5 convolution layers, three fully connected layers and ReLU activation, and a final output layer with softmax. The following parameters are used for training: the local batch size BS = 20, the number of local epochs $E=2$, the local learning rate \eta_L = 0.1 and the global learning rate \eta = 0.1.
 
 ## Results
 The performance comparison on the Cifar10 with our proposed algorithm and Benchmarks.
