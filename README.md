@@ -21,6 +21,10 @@ Python 3.6
 Pytorch 1.11.0
 
 Torchvision 0.12.0
+
+## Dataset
+The program supports generating FL dataset from Pytorch native datasets, we currently test MNIST, FashionMNIST and Cifar10 datasets.
+
 ## Reference
 If you find the code useful, please cite the following papers:
 Friends to Help: Saving Federated Learning from Client Dropout. 
