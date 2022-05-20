@@ -39,11 +39,6 @@ MNIST Model: The CNN model has two 5 × 5 convolution layers, a fully connected 
 
 CIFAR-10 Model: The CNN model has two  5 × 5 convolution layers, three fully connected layers and ReLU activation, and a final output layer with softmax. The following parameters are used for training: the local batch size BS = 20, the number of local epochs $E=2$, the local learning rate \eta_L = 0.1 and the global learning rate \eta = 0.1.
 
-## Results
-The performance comparison on the Cifar10 with our proposed algorithm and Benchmarks.
-
-![image](https://github.com/ystex/Federated-Learning-with-Friend-Discovery-and-Model-Substitution-/blob/main/cifar_result.png =100x200)
-
 
 ## Reference
 If you find the code useful, please cite the following papers:
