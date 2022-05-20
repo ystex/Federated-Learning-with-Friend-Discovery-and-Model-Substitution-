@@ -42,7 +42,7 @@ CIFAR-10 Model: The CNN model has two  5 × 5 convolution layers, three fully co
 ## Results
 The performance comparison on the Cifar10 with our proposed algorithm and Benchmarks.
 
-![image](https://github.com/ystex/Federated-Learning-with-Friend-Discovery-and-Model-Substitution-/blob/main/cifar_result.png)
+![image](https://github.com/ystex/Federated-Learning-with-Friend-Discovery-and-Model-Substitution-/blob/main/cifar_result.png =100x200)
 
 
 ## Reference
