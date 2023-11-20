@@ -15,9 +15,6 @@ FL-Dropout: The server simply ignores the dropout clients performs global aggreg
 
 FL-Stale: The method to deal with dropout clients is to use their uploaded local model updates for the current round’s global aggregation. 
 
-
-FL-FDMS-CR: Our proposed Friend Discovery and Model Substitution algorithm with Reducing Similarity Computation Complexity  
-
 ## Requirments
 Python 3.6
 
