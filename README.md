@@ -1,5 +1,6 @@
 # Federated-Learning-with-Friend-Discovery-and-Model-Substitution
-Source code for paper: Friends to Help: Saving Federated Learning from Client Dropout
+Code----Source code for paper: Friends to Help: Saving Federated Learning from Client Dropout
+Supplymentary ----- The proof of convergence analysis and additinal simulations
 ## Main Organization of the Code
 FL-FDMS: Our proposed Friend Discovery and Model Substitution algorithm.  
 
