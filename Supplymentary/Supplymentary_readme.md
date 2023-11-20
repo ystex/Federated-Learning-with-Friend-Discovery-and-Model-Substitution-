@@ -1,5 +1,5 @@
 
-## Supplementary materials
+## Supplementary Materials
 
 Here, we provide a detailed proof of Theorem 1. We also show a thorough description of the experimental setup and additional experimental results.
 
