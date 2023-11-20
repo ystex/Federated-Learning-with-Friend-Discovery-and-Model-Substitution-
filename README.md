@@ -1,5 +1,5 @@
 # Federated-Learning-with-Friend-Discovery-and-Model-Substitution
-Code----Source code for paper: Friends to Help: Saving Federated Learning from Client Dropout
+Code ---- Source code for paper: Friends to Help: Saving Federated Learning from Client Dropout
 
 
 Supplymentary ----- The proof of convergence analysis and additinal simulations
