@@ -2,7 +2,7 @@
 Code ---- Source code for paper: Friends to Help: Saving Federated Learning from Client Dropout
 
 
-Supplymentary ----- The detial of convergence analysis and additinal simulations
+Supplymentary ----- The detail of convergence analysis and additinal simulations
 ## Main Organization of the Code
 FL-FDMS: Our proposed Friend Discovery and Model Substitution algorithm.  
 
